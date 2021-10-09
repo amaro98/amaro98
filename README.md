@@ -9,7 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaro98)](https://github.com/amaro98/github-readme-stats)<br><br>
 
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=amaro98&label=Visitors Count&countColor=%23263759)
 
 
