@@ -10,5 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaro98)](https://github.com/amaro98/github-readme-stats)<br><br>
 
 
-[![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
