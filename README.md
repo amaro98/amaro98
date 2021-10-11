@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaro98)](https://github.com/amaro98/github-readme-stats)<br><br> 
 
-![](https://komarev.com/ghpvc/?username=amaro98&label=Total Visitors)
+![](https://komarev.com/ghpvc/?username=amaro98&label=Total_Visitors)
